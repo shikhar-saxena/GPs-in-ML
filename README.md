@@ -5,3 +5,6 @@ Repo containing Notes and Code on Gaussian Processes in ML tasks. Done as part o
 ## Files
 
 - [Rasmussen-book](RW.pdf)
+- [regression-code](regression.ipynb)
+- [classification-code](classification.ipynb)
+- [gp-sampling](Untitled.ipynb)
